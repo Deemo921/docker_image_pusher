@@ -1,3 +1,2 @@
-prom/prometheus:v2.53.2
-
+docker pull prom/node-exporter:v1.8.2
 
